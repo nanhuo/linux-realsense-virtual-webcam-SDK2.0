@@ -1,8 +1,7 @@
 # linux-realsense-virtual-webcam-SDK2.0
 
-## Experimental virtual webcam for the Intel Realsense SR300 using Intel® RealSense™ SDK 2.0.
-
-## Both C++ and Python3 are supported.
+* Experimental virtual webcam for the Intel Realsense SR300 using Intel® RealSense™ SDK 2.0.
+* Both C++ and Python3 are supported.
 
 
 ## Requirements
